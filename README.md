@@ -1,11 +1,7 @@
 ## Hi 👋. Welcome to Julia's GitHub.
 
-<!--
-**julia-mt/julia-mt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- I am grad student at UPenn, studying Computer Science and interested in Data-Driven Investing and ML Applications to the Real Asset Space.
-
----
+* I am grad student at UPenn, studying Computer Science
+* Interested in Data-Driven Investing and ML Applications to the Real Asset Space.
 
 ## Skills:
 
@@ -23,8 +19,6 @@ Git, Docker, Google Cloud Platform, VS Code, PyCharm
 
 ## Projects:
 
----
-
 ### Financial Text Alpha Research Using Open-Source LLMs
 
 Python, NLP, PyTorch
@@ -36,8 +30,6 @@ Applied transformer-based models including FinBERT and Sentence-BERT to financia
 Engineered text-derived features such as tone dispersion and management guidance / confidence signals
 
 Evaluated predictive power of textual signals for post-earnings returns and volatility using walk-forward validation
-
----
 
 ### Loan Risk & Credit Default Modeling
 
