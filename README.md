@@ -5,23 +5,23 @@
 
 ## Skills:
 
-Programming:
+**Programming:**
 Python, SQL, Java, C
 
-Data Science & Machine Learning:
+**Data Science & Machine Learning:**
 pandas, NumPy, scikit-learn, PyTorch, TensorFlow
 
-Statistical & ML Methods:
+**Statistical & ML Methods:**
 Regression (linear, logistic, Ridge/Lasso), tree-based models (random forest, gradient boosting), PCA, clustering, time-series modeling, NLP, transformer models
 
-Tools & Platforms:
+**Tools & Platforms:**
 Git, Docker, Google Cloud Platform, VS Code, PyCharm
 
 ## Projects:
 
 ### Financial Text Alpha Research Using Open-Source LLMs
 
-Python, NLP, PyTorch
+ | **Python, NLP, PyTorch**
 
 Analyzed earnings call transcripts and SEC filings to extract firm-level sentiment and narrative shifts
 
@@ -33,7 +33,7 @@ Evaluated predictive power of textual signals for post-earnings returns and vola
 
 ### Loan Risk & Credit Default Modeling
 
-Python, Machine Learning, Time Series
+| **Python, Machine Learning, Time Series**
 
 Developed machine learning models to estimate borrower default probability and portfolio loss distribution across a ~$1B consumer loan portfolio
 
