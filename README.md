@@ -19,6 +19,18 @@ Git, Docker, Google Cloud Platform, VS Code, PyCharm
 
 ## Projects:
 
+### [Loan Risk & Credit Default Modeling](https://github.com/julia-mt/loan_risk_credit_default_modeling)
+
+**Tech Stack:** Python | Machine Learning | scikit-learn 
+
+Developed machine learning models to estimate borrower default probability and portfolio loss distribution across a ~$1B consumer loan portfolio
+
+Engineered predictive features including borrower behavior, macroeconomic sensitivity, and credit exposure
+
+Applied PCA to transform features and performed K-Means clustering to identify groups of borrowers with similar risk characteristics
+
+Analyzed potential mispricing by loan grade and evaluated implications for risk-adjusted returns
+
 ### Financial Text Alpha Research Using Open-Source LLMs (Ongoing)
 
 **Tech Stack:** Python | PyTorch | NLP | Hugging Face Transformers | scikit-learn
@@ -31,12 +43,3 @@ Engineered text-derived features such as tone dispersion and management guidance
 
 Evaluated predictive power of textual signals for post-earnings returns and volatility using walk-forward validation
 
-### Loan Risk & Credit Default Modeling
-
-**Tech Stack:** Python | Machine Learning | scikit-learn 
-
-Developed machine learning models to estimate borrower default probability and portfolio loss distribution across a ~$1B consumer loan portfolio
-
-Engineered predictive features including borrower behavior, macroeconomic sensitivity, and credit exposure
-
-Evaluated model stability using time-series cross-validation and out-of-sample testing
