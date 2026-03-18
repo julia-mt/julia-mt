@@ -19,9 +19,9 @@ Git, Docker, Google Cloud Platform, VS Code, PyCharm
 
 ## Projects:
 
-### Financial Text Alpha Research Using Open-Source LLMs
+### Financial Text Alpha Research Using Open-Source LLMs (Ongoing)
 
- | **Python, NLP, PyTorch**
+**Tech Stack:** Python | PyTorch | NLP | Hugging Face Transformers | scikit-learn
 
 Analyzed earnings call transcripts and SEC filings to extract firm-level sentiment and narrative shifts
 
@@ -33,7 +33,7 @@ Evaluated predictive power of textual signals for post-earnings returns and vola
 
 ### Loan Risk & Credit Default Modeling
 
-| **Python, Machine Learning, Time Series**
+**Tech Stack:** Python | Machine Learning | scikit-learn 
 
 Developed machine learning models to estimate borrower default probability and portfolio loss distribution across a ~$1B consumer loan portfolio
 
