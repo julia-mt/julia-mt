@@ -1,7 +1,7 @@
 ## Hi. Welcome to Julia's GitHub.
 
 * I am a grad student at UPenn, studying Computer Science
-* Interested in Data-Driven Investing and ML Applications to the Real Asset Space.
+* Interested in Data-Driven Investing and ML Applications to the Alternative Asset Space.
 
 ## Skills:
 
