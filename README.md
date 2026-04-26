@@ -31,7 +31,7 @@ Applied PCA to transform features and performed K-Means clustering to identify g
 
 Analyzed potential mispricing by loan grade and evaluated implications for risk-adjusted returns
 
-### [Financial Text Alpha Research Using Open-Source LLMs (Ongoing)](https://github.com/julia-mt/financial_text_research.git))
+### [Financial Text Alpha Research Using Open-Source LLMs (Ongoing)](https://github.com/julia-mt/financial_text_research.git)
 
 **Tech Stack:** Python | PyTorch | NLP | Hugging Face Transformers | scikit-learn
 
