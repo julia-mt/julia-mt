@@ -33,13 +33,17 @@ Analyzed potential mispricing by loan grade and evaluated implications for risk-
 
 ### [Financial Text Alpha Research Using Open-Source LLMs (Ongoing)](https://github.com/julia-mt/financial_text_research.git)
 
-**Tech Stack:** Python | PyTorch | NLP | Hugging Face Transformers | scikit-learn
+**Tech Stack:** Python | PyTorch | FinBERT | Hugging Face Transformers | statsmodels
 
-Analyzed earnings call transcripts and SEC filings to extract firm-level sentiment and narrative shifts
+Built an end-to-end pipeline ingesting S&P 500 earnings call transcripts from WRDS Capital IQ, parsing speaker-level text into structured executive 
+and analyst turns across presentation and Q&A sections
 
-Applied transformer-based models including FinBERT and Sentence-BERT to financial text and evaluated model performance
+Applied FinBERT to score sentiment at the speaker level and engineered event-level features including analyst Q&A pressure, executive-analyst
+sentiment gap, and tone dispersion
 
-Engineered text-derived features such as tone dispersion and management guidance / confidence signals
+Constructed cumulative abnormal returns (CAR) at 1, 3, 5, and 10-day horizons using CRSP daily stock data market-adjusted against the value-weighted index
 
-Evaluated predictive power of textual signals for post-earnings returns and volatility using walk-forward validation
+Found statistically significant negative relationship between analyst Q&A sentiment and future CAR (β=−0.012, p=0.028 at 10-day horizon)
+
+Long-short portfolio sorted on analyst sentiment quintiles generates 77bps mean monthly spread (p=0.048, Newey-West adjusted)
 
